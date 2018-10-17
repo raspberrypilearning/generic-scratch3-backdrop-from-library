@@ -1,11 +1,8 @@
-title: generic-scratch3-backdrop-from-library
+title: Adding a backdrop from the Scratch library
 hero_image: images/banner.png
-description: generic-scratch3-backdrop-from-library description
-version: 4
+description: Adding a backdrop from the Scratch library
 listed: false
-copyedit: false
-last_tested: "2018-10-17"
+ingredient: true
+copyedit: true
 steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Step title
+  - title: Adding a backdrop
