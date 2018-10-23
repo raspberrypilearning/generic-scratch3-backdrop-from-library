@@ -1,4 +1,4 @@
-+ Click __Choose a Backdrop__.
++ Click on __Choose a Backdrop__ in the bottom right.
 
 ![screenshot](images/stage-choose.png)
 
