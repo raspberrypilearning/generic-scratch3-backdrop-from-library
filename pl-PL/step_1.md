@@ -1,7 +1,7 @@
-+ Click on **Choose a Backdrop** in the bottom right.
++ Kliknij **Wybierz tło** w prawym dolnym rogu.
 
 ![zrzut ekranu](images/stage-choose.png)
 
-+ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
++ Możesz wyszukać interesujące Cię tło lub przeglądać tła według kategorii lub motywu. Kliknij na tło aby je wybrać.
 
 ![zrzut ekranu](images/backdrop.png)
