@@ -1,7 +1,7 @@
-+ Click on **Choose a Backdrop** in the bottom right.
++ Sağ alttaki **Bir Dekor Seç** 'e tıklayın.
 
-![screenshot](images/stage-choose.png)
+![ekran görüntüsü](images/stage-choose.png)
 
-+ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
++ Dekor'u arayabilir, kategori ya da temaya göre göz atabilirsiniz. Seçmek için Dekor'un üzerine tıklayın.
 
-![screenshot](images/backdrop.png)
+![ekran görüntüsü](images/backdrop.png)
