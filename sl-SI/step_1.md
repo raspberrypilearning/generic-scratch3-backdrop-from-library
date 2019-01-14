@@ -4,4 +4,4 @@
 
 + Ozadje lahko poiščeš ali brskaš za njim glede na kategorijo ali temo. Klikni na ozadje, da ga izbereš.
 
-![screenshot](images/backdrop.png)
+![posnetek zaslona](images/backdrop.png)
