@@ -1,7 +1,7 @@
-+ Click on **Choose a Backdrop** in the bottom right.
++ Nhấp vào **Chọn Phông nền** ở dưới cùng bên phải.
 
-![screenshot](images/stage-choose.png)
+![ảnh chụp màn hình](images/stage-choose.png)
 
-+ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
++ Bạn có thể tìm kiếm phông nền hoặc duyệt qua phông nền theo danh mục hoặc chủ đề. Click on a backdrop to select it.
 
-![screenshot](images/backdrop.png)
+![ảnh chụp màn hình](images/backdrop.png)
