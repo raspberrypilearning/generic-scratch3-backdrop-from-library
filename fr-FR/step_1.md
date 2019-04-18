@@ -1,7 +1,7 @@
-+ Click on **Choose a Backdrop** in the bottom right.
++ Cliquez sur **Choisir un arrière-plan** en bas à droite.
 
 ![capture d'écran](images/stage-choose.png)
 
-+ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
++ Vous pouvez rechercher un arrière-plan ou parcourir par catégorie ou par thème. Cliquez sur un arrière-plan pour le sélectionner.
 
 ![capture d'écran](images/backdrop.png)
