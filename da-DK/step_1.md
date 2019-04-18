@@ -1,7 +1,7 @@
-+ Click on **Choose a Backdrop** in the bottom right.
++ Klik på ** Vælg en baggrund ** nederst til højre.
 
 ![screenshots](images/stage-choose.png)
 
-+ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
++ Du kan søge efter en baggrund eller søge efter én efter kategori eller tema. Klik på en baggrund for at vælge den.
 
 ![screenshots](images/backdrop.png)
