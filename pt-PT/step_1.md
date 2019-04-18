@@ -1,4 +1,4 @@
-+ Clique em **Escolha um Pano** Fundo </strong> no canto inferior direito.
++ Click on **Choose a Backdrop** in the bottom right.
 
 ![captura de tela](images/stage-choose.png)
 
