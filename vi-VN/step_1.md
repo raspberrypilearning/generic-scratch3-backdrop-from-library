@@ -1,4 +1,4 @@
-+ Nhấp vào **Chọn Phông nền** ở dưới cùng bên phải.
++ Nhấp vào **Chọn một Phông nền** ở dưới cùng bên phải.
 
 ![ảnh chụp màn hình](images/stage-choose.png)
 
