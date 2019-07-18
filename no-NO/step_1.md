@@ -2,6 +2,6 @@
 
 ![skjermbilde](images/stage-choose.png)
 
-+ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
++ Du kan søke etter et bakgrunnsbilde eller bla etter et etter kategori eller tema. Klikk på et bakgrunnsbilde for å velge det.
 
-![screenshot](images/backdrop.png)
+![skjermbilde](images/backdrop.png)
