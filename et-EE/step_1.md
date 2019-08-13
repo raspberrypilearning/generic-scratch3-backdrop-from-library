@@ -1,7 +1,7 @@
-+ Click on **Choose a Backdrop** in the bottom right.
++ Klõpsa all paremal **Vali taust**.
 
-![screenshot](images/stage-choose.png)
+![kuvatõmmis](images/stage-choose.png)
 
-+ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
++ Saad otsida tausta või sirvida selle leidmiseks kategooria või teema järgi. Selle valimiseks klõpsa taustal.
 
-![screenshot](images/backdrop.png)
+![kuvatõmmis](images/backdrop.png)
