@@ -1,4 +1,4 @@
-+ Click on **Choose a Backdrop** in the bottom right.
++ ከስር በቀኝ በኩል ** Choose a Backdrop ** ላይ ጠቅ ያድርጉ።
 
 ![screenshot](images/stage-choose.png)
 
