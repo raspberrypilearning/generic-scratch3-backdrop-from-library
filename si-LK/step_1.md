@@ -1,7 +1,7 @@
-+ Click on **Choose a Backdrop** in the bottom right.
++ පහතින් දකුණේ ඇති **Choose a Backdrop** මත ක්ලික් කරන්න.
 
-![screenshot](images/stage-choose.png)
+![තිර රුව](images/stage-choose.png)
 
-+ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
++ ප්‍රවර්ගයක් / කාණ්ඩයක් හෝ තේමාවක් අනුව ඔබට පසුබිමක්(backdrop එකක්) සෙවිය හැකිය. එය තේරීමට පසුබිමක් මත ක්ලික් කරන්න.
 
-![screenshot](images/backdrop.png)
+![තිර රුව](images/backdrop.png)
