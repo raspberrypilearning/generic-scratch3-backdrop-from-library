@@ -1,7 +1,7 @@
-+ Click on **Choose a Backdrop** in the bottom right.
++ Fes clic a **Tria un fons** de la part inferior dreta.
 
-![screenshot](images/stage-choose.png)
+![captura de pantalla](images/stage-choose.png)
 
-+ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
++ Pots cercar un fons o navegar per una categoria o tema. Fes clic a un fons per seleccionar-lo.
 
-![screenshot](images/backdrop.png)
+![captura de pantalla](images/backdrop.png)
