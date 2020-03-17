@@ -1,7 +1,7 @@
-+ 單擊舞台面板處的**選個背景**。
++ Click on **Choose a Backdrop** in the bottom right.
 
-![截圖](images/stage-choose.png)
+![screenshot](images/stage-choose.png)
 
-+ 你可以用搜尋的方法，或依主題篩選背景。 在背景上點一下就可以選取。
++ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
 
-![截圖](images/backdrop.png)
+![screenshot](images/backdrop.png)
