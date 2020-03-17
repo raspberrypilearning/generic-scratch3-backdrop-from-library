@@ -1,7 +1,7 @@
-+ Click on **Choose a Backdrop** in the bottom right.
++ ከስር በቀኝ በኩል ** Choose a Backdrop ** ላይ ጠቅ ያድርጉ።
 
-![screenshot](images/stage-choose.png)
+![ስክሪን ሹት](images/stage-choose.png)
 
-+ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
++ የጀርባ ምስል መድፈለግ ይችላሉ ወይም ደግሞ በገጽታ እንዲሁም በምድብ ማሰስ ይችላሉ:: ለመምረጥ የጀርባ ምስሉ ላይ ጠቅ ያድርጉ::
 
-![screenshot](images/backdrop.png)
+![ቅጽበታዊ ገጽ እይታ](images/backdrop.png)
