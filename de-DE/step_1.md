@@ -1,7 +1,7 @@
-+ Klicke unten rechts auf **Bühnenbild wählen**.
++ Click on **Choose a Backdrop** in the bottom right.
 
-![Screenshot](images/stage-choose.png)
+![screenshot](images/stage-choose.png)
 
-+ Du kannst ein Bühnenbild suchen oder die Auswahl durch Kategorien oder Themen begrenzen. Klicke auf das Bühnenbild um es auszuwählen.
++ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
 
-![Screenshot](images/backdrop.png)
+![screenshot](images/backdrop.png)
