@@ -1,7 +1,7 @@
-+ Click on **Choose a Backdrop** in the bottom right.
++ Klik **Pilih Latar** di kanan bawah.
 
 ![screenshot](images/stage-choose.png)
 
-+ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
++ Kamu dapat mencari latar atau menelusuri berdasarkan kategori atau tema. Klik pada latar untuk memilihnya.
 
 ![screenshot](images/backdrop.png)
