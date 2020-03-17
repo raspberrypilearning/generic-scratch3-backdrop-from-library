@@ -1,7 +1,7 @@
-+ Click on **Choose a Backdrop** in the bottom right.
++ انقر فوق **اختيار الخلفية** في أسفل الصفحة يسار.
 
-![screenshot](images/stage-choose.png)
+![لقطة الشاشة](images/stage-choose.png)
 
-+ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
++ يمكنك البحث عن الخلفية أو عرضها عن طريق التصنيف حسب الفئة أو الموضوع. انقر فوق الخلفية لاختيارها.
 
-![screenshot](images/backdrop.png)
+![لقطة الشاشة](images/backdrop.png)
