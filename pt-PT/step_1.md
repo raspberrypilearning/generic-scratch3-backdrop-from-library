@@ -1,7 +1,7 @@
 + Click on **Choose a Backdrop** in the bottom right.
 
-![captura de tela](images/stage-choose.png)
+![screenshot](images/stage-choose.png)
 
-+ Podes procurar um fundo ou escolher um por categoria ou tema. Clique no pano de fundo para selecioná-lo.
++ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
 
-![captura de tela](images/backdrop.png)
+![screenshot](images/backdrop.png)
