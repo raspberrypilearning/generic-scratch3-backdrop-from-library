@@ -1,7 +1,7 @@
-+ Click on **Choose a Backdrop** in the bottom right.
++ Кликни **Выбрать фон** в правом нижнем углу.
 
 ![screenshot](images/stage-choose.png)
 
-+ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
++ Ты можешь искать среди фонов или подобрать фон по категории или теме. Кликни по фону, чтобы выбрать его.
 
 ![screenshot](images/backdrop.png)
