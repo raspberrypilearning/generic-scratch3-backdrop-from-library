@@ -1,7 +1,7 @@
-+ Click on **Choose a Backdrop** in the bottom right.
++ Clicia **Dewiswch gefnlen** ar waelod dde y dudalen.
 
-![screenshot](images/stage-choose.png)
+![sgrinlun](images/stage-choose.png)
 
-+ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
++ Mae modd chwilio am gefnlen neu bori am un yn ôl categori neu thema. Clicia ar y gefnlen i'w ddewis.
 
-![screenshot](images/backdrop.png)
+![sgrinlun](images/backdrop.png)
