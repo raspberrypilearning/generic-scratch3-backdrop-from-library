@@ -1,7 +1,7 @@
-+ Kattints a **Háttér választás** gombra a jobb alsó sarokban.
++ Click on **Choose a Backdrop** in the bottom right.
 
-![képernyőkép](images/stage-choose.png)
+![screenshot](images/stage-choose.png)
 
-+ Kereshetsz hátteret, vagy böngészheted őket kategória vagy téma szerint. Kattints egy háttérre a kiválasztáshoz.
++ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
 
-![képernyőkép](images/backdrop.png)
+![screenshot](images/backdrop.png)
