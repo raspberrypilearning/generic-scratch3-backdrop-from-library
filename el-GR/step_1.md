@@ -1,7 +1,7 @@
-+ Κάνε κλικ στο **Επιλέξτε Υπόβαθρο** στην κάτω δεξιά γωνία.
++ Click on **Choose a Backdrop** in the bottom right.
 
 ![screenshot](images/stage-choose.png)
 
-+ Μπορείς να αναζητήσεις ένα υπόβαθρο ανά κατηγορία ή θέμα. Κάνε κλικ σε ένα υπόβαθρο για να το επιλέξεις.
++ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
 
 ![screenshot](images/backdrop.png)
