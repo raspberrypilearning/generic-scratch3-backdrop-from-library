@@ -1,7 +1,7 @@
-+ Click on **Choose a Backdrop** in the bottom right.
++ Dă click pe **Alege un Decor** din partea dreaptă de jos.
 
-![screenshot](images/stage-choose.png)
+![captură de ecran](images/stage-choose.png)
 
-+ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
++ Poți căuta direct un decor sau poți alege unul după categorie sau temă. Dă click pe un decor pentru a-l selecta.
 
-![screenshot](images/backdrop.png)
+![captură de ecran](images/backdrop.png)
