@@ -1,7 +1,7 @@
-+ Click on **Choose a Backdrop** in the bottom right.
++ 单击右下角的 ** 选择一个背景 **。
 
-![screenshot](images/stage-choose.png)
+![截屏](images/stage-choose.png)
 
-+ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
++ 您可以搜索一个背景或按类别或主题浏览一个背景。 单击一个背景以选择它。
 
-![screenshot](images/backdrop.png)
+![截图](images/backdrop.png)
