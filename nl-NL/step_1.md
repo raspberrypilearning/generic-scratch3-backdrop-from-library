@@ -1,7 +1,7 @@
-+ Klik rechtsonder op **Kies een achtergrond**.
++ Click on **Choose a Backdrop** in the bottom right.
 
 ![screenshot](images/stage-choose.png)
 
-+ Je kunt naar een achtergrond zoeken of naar één op categorie of thema zoeken. Klik op een achtergrond om deze te selecteren.
++ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
 
 ![screenshot](images/backdrop.png)
