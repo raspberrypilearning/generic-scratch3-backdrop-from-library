@@ -1,7 +1,7 @@
-+ Klikni na **Odaberi pozadinu** u donjem desnom kutu.
++ Click on **Choose a Backdrop** in the bottom right.
 
-![snimka zaslona](images/stage-choose.png)
+![screenshot](images/stage-choose.png)
 
-+ Možeš pronaći pozadinu tako da upišeš njen naziv ili pretraživati po kategoriji ili temi. Odaberi pozadinu tako da klikneš na nju.
++ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
 
-![snimka zaslona](images/backdrop.png)
+![screenshot](images/backdrop.png)
