@@ -1,7 +1,7 @@
-+ Click on **Choose a Backdrop** in the bottom right.
++ روی **Choose a Backdrop** در سمت راست پایین کلیک کنید.
 
-![screenshot](images/stage-choose.png)
+![عکس از صفحه نمایش](images/stage-choose.png)
 
-+ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
++ شما می‌توانید یک پشت صحنه را جستجو کنید یا بر اساس طبقه‌بندی یا موضوع مرور نمایید. برای انتخاب یک پشت صحنه، بر روی آن کلیک کنید.
 
 ![screenshot](images/backdrop.png)
