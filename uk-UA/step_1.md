@@ -1,7 +1,7 @@
-+ Click on **Choose a Backdrop** in the bottom right.
++ Натисни **Обрати тло** у правому нижньому куті.
 
-![screenshot](images/stage-choose.png)
+![знімок екрана](images/stage-choose.png)
 
-+ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
++ Ти можеш шукати тло або переглядати їх за категорією чи темою. Натисніи на тло, щоб вибрати його.
 
-![screenshot](images/backdrop.png)
+![знімок екрана](images/backdrop.png)
