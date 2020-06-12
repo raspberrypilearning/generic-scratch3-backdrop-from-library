@@ -1,7 +1,7 @@
-+ Click on **Choose a Backdrop** in the bottom right.
++ கீழ் வலதுபுறத்தில் **தேர்வு ஒரு பின்னணி** என்பதைக் கிளிக் செய்க.
 
-![screenshot](images/stage-choose.png)
+![திரைப்பிடிப்பு](படங்கள் / மேடை-தேர்வு. png)
 
-+ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
++ நீங்கள் ஒரு பின்னணியைத் தேடலாம் அல்லது வகை அல்லது தீம் அடிப்படையில் ஒன்றை உலாவலாம். அதைத் தேர்ந்தெடுக்க பின்னணியில் கிளிக் செய்க.
 
-![screenshot](images/backdrop.png)
+![திரைப்பிடிப்பு](படங்கள் / backdrop.png)
