@@ -1,7 +1,7 @@
-+ Click on **Choose a Backdrop** in the bottom right.
++ Klikněte na ** Vybrat pozadí ** v pravém dolním rohu.
 
-![screenshot](images/stage-choose.png)
+![snímek obrazovky](images/stage-choose.png)
 
-+ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
++ Můžete pozadí vyhledat nebo procházet podle kategorie nebo tématu. Klepnutím na pozadí jej vyberte.
 
-![screenshot](images/backdrop.png)
+![snímek obrazovky](images/backdrop.png)
