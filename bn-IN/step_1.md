@@ -1,7 +1,7 @@
-+ Click on **Choose a Backdrop** in the bottom right.
++ নীচে ডানদিকে **Choose a Backdrop** এর উপরে ক্লিক করুন।.
 
 ![screenshot](images/stage-choose.png)
 
-+ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
++ আপনি backdrop অনুসন্ধান করতে পারেন বা বিভাগ অনুসারে theme খুঁজতে পারেন।. নির্বাচন করতে backdrop টিতে ক্লিক করুন।.
 
 ![screenshot](images/backdrop.png)
