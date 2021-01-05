@@ -1,7 +1,7 @@
-+ Click on **Choose a Backdrop** in the bottom right.
-
-![screenshot](images/stage-choose.png)
-
-+ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
-
-![screenshot](images/backdrop.png)
++ ಕೆಳಗಿನ ಬಲಭಾಗದಲ್ಲಿರುವ **Choose a Backdrop<0> ಕ್ಲಿಕ್ ಮಾಡಿ.</li> </ul> 
+    
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/stage-choose.png)
+    
+    + ನೀವು (backdrop) ಬ್ಯಾಕ್ಡ್ರಾಪ್ ಗಾಗಿ ಹುಡುಕಬಹುದು ಅಥವಾ ವರ್ಗ ಅಥವಾ ಥೀಮ್ ಪ್ರಕಾರ ಒಂದನ್ನು ಬ್ರೌಸ್ ಮಾಡಬಹುದು. ಬ್ಯಾಕ್‌ಡ್ರಾಪ್ (backdrop) ಆಯ್ಕೆ ಮಾಡಲು ಅದರ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ.
+    
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/backdrop.png)
