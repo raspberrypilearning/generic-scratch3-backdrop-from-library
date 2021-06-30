@@ -1,4 +1,4 @@
-Click on __Choose a Backdrop__ in the bottom right-hand corner to open the Backdrop Library:
+Click on __Choose a Backdrop__ in the bottom right-hand corner of the screen to open the Backdrop Library:
 
 ![The 'Choose a Backdrop' icon.](images/stage-choose.png)
 
