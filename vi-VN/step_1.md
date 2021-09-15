@@ -1,7 +1,7 @@
-+ Nhấp vào **Chọn một Phông nền** ở dưới cùng bên phải.
+Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
 
-![ảnh chụp màn hình](images/stage-choose.png)
+![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
 
-+ Bạn có thể tìm kiếm phông nền hoặc duyệt qua phông nền theo danh mục hoặc chủ đề. Nhấp vào phông nền để chọn nó.
+You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
 
-![ảnh chụp màn hình](images/backdrop.png)
+![The Backdrop Library.](images/backdrop.png)
