@@ -1,7 +1,7 @@
-+ Dă click pe **Alege un Decor** din partea dreaptă de jos.
+Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
 
-![captură de ecran](images/stage-choose.png)
+![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
 
-+ Poți căuta direct un decor sau poți alege unul după categorie sau temă. Dă click pe un decor pentru a-l selecta.
+You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
 
-![captură de ecran](images/backdrop.png)
+![The Backdrop Library.](images/backdrop.png)
