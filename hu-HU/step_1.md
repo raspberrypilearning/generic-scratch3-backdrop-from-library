@@ -1,7 +1,7 @@
-+ Kattints a **Háttér választás** gombra a jobb alsó sarokban.
+Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
 
-![screenshot](images/stage-choose.png)
+![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
 
-+ Kereshetsz hátteret, vagy böngészheted őket kategória vagy téma szerint. Kattints egy háttérre a kiválasztáshoz.
+You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
 
-![screenshot](images/backdrop.png)
+![The Backdrop Library.](images/backdrop.png)
