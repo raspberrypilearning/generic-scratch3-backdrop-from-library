@@ -1,7 +1,7 @@
-+ Klik **Pilih Latar** di kanan bawah.
+Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
 
-![screenshot](images/stage-choose.png)
+![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
 
-+ Kamu dapat mencari latar atau menelusuri berdasarkan kategori atau tema. Klik pada latar untuk memilihnya.
+You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
 
-![screenshot](images/backdrop.png)
+![The Backdrop Library.](images/backdrop.png)
