@@ -1,7 +1,7 @@
-+ ከስር በቀኝ በኩል ** Choose a Backdrop ** ላይ ጠቅ ያድርጉ።
+Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
 
-![ስክሪን ሹት](images/stage-choose.png)
+![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
 
-+ የጀርባ ምስል መድፈለግ ይችላሉ ወይም ደግሞ በገጽታ እንዲሁም በምድብ ማሰስ ይችላሉ:: ለመምረጥ የጀርባ ምስሉ ላይ ጠቅ ያድርጉ::
+You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
 
-![ቅጽበታዊ ገጽ እይታ](images/backdrop.png)
+![The Backdrop Library.](images/backdrop.png)
