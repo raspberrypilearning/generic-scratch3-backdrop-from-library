@@ -1,7 +1,7 @@
-+ Κάνε κλικ στο **Επιλέξτε Υπόβαθρο** στην κάτω δεξιά γωνία.
+Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
 
-![screenshot](images/stage-choose.png)
+![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
 
-+ Μπορείς να αναζητήσεις ένα υπόβαθρο ανά κατηγορία ή θέμα. Κάνε κλικ σε ένα υπόβαθρο για να το επιλέξεις.
+You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
 
-![screenshot](images/backdrop.png)
+![The Backdrop Library.](images/backdrop.png)
