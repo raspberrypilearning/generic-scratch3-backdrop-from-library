@@ -1,7 +1,7 @@
-+ පහතින් දකුණේ ඇති **Choose a Backdrop** මත ක්ලික් කරන්න.
+Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
 
-![තිර රුව](images/stage-choose.png)
+![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
 
-+ ප්‍රවර්ගයක් / කාණ්ඩයක් හෝ තේමාවක් අනුව ඔබට පසුබිමක්(backdrop එකක්) සෙවිය හැකිය. එය තේරීමට පසුබිමක් මත ක්ලික් කරන්න.
+You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
 
-![තිර රුව(screenshot)](images/backdrop.png)
+![The Backdrop Library.](images/backdrop.png)
