@@ -1,7 +1,7 @@
-+ Klikni na **Odaberi pozadinu** u donjem desnom kutu.
+Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
 
-![snimka zaslona](images/stage-choose.png)
+![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
 
-+ Možeš pronaći pozadinu tako da upišeš njen naziv ili pretraživati po kategoriji ili temi. Odaberi pozadinu tako da klikneš na nju.
+You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
 
-![screenshot](images/backdrop.png)
+![The Backdrop Library.](images/backdrop.png)
