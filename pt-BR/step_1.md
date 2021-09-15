@@ -1,7 +1,7 @@
-+ Clique em ** Escolha um plano de fundo** no canto inferior direito.
+Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
 
-![screenshot](images/stage-choose.png)
+![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
 
-+ Você pode pesquisar um plano de fundo ou navegar por uma categoria ou tema. Clique no plano de fundo para selecioná-lo.
+You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
 
-![captura de tela](images/backdrop.png)
+![The Backdrop Library.](images/backdrop.png)
