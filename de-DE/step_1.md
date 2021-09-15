@@ -1,7 +1,7 @@
-+ Klicke unten rechts auf **Bühnenbild wählen**.
+Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
 
-![Screenshot](images/stage-choose.png)
+![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
 
-+ Du kannst ein Bühnenbild suchen oder die Auswahl durch Kategorien oder Themen begrenzen. Klicke auf das Bühnenbild um es auszuwählen.
+You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
 
-![Screenshot](images/backdrop.png)
+![The Backdrop Library.](images/backdrop.png)
