@@ -1,7 +1,7 @@
-+ 单击右下角的 ** 选择一个背景 **。
+Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
 
-![截屏](images/stage-choose.png)
+![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
 
-+ 您可以搜索一个背景或按类别或主题浏览一个背景。 单击一个背景以选择它。
+You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
 
-![截图](images/backdrop.png)
+![The Backdrop Library.](images/backdrop.png)
