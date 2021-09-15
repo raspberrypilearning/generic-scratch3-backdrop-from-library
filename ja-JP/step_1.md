@@ -1,7 +1,7 @@
-+ 右下にある、**背景を選ぶ** (はいけいをえらぶ) をクリックします。
+Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
 
-![スクリーンショット](images/stage-choose.png)
+![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
 
-+ 背景を検索 (けんさく) したり、カテゴリやテーマからさがすこともできます。 背景をクリックして選びます。
+You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
 
-![スクリーンショット](images/backdrop.png)
+![The Backdrop Library.](images/backdrop.png)
