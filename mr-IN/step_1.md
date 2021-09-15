@@ -1,7 +1,7 @@
-+ उजवीकडे तळाशी असलेल्या **Choose a Backdrop** वर क्लिक करा.
+Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
 
-![screenshot](images/stage-choose.png)
+![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
 
-+ आपण पार्श्वभूमी शोधू शकता किंवा श्रेणी किंवा थीमनुसार ब्राउझ करू शकता. ते निवडण्यासाठी पार्श्वभूमीवर क्लिक करा.
+You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
 
-![screenshot](images/backdrop.png)
+![The Backdrop Library.](images/backdrop.png)
