@@ -1,7 +1,7 @@
-+ Натисни **Обрати тло** у правому нижньому куті.
+Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
 
-![знімок екрана](images/stage-choose.png)
+![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
 
-+ Ти можеш шукати тло або переглядати їх за категорією чи темою. Натисніи на тло, щоб вибрати його.
+You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
 
-![знімок екрана](images/backdrop.png)
+![The Backdrop Library.](images/backdrop.png)
