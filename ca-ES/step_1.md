@@ -1,7 +1,7 @@
-+ Fes clic a **Tria un fons** de la part inferior dreta.
+Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
 
-![captura de pantalla](images/stage-choose.png)
+![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
 
-+ Pots cercar un fons o navegar per una categoria o tema. Fes clic a un fons per seleccionar-lo.
+You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
 
-![captura de pantalla](images/backdrop.png)
+![The Backdrop Library.](images/backdrop.png)
