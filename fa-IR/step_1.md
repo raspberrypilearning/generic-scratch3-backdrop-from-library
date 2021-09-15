@@ -1,7 +1,7 @@
-+ در سمت چپ پایین، روی **پس‌زمینه‌ای را انتخاب کنید** کلیک نمایید.
+Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
 
-![عکس از صفحه نمایش](images/stage-choose.png)
+![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
 
-+ شما می‌توانید یک پس‌زمینه را جستجو کنید یا بر اساس طبقه‌بندی یا موضوع مرور نمایید. برای انتخاب یک پس‌زمینه، بر روی آن کلیک کنید.
+You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
 
-![عکس از صفحه نمایش](images/backdrop.png)
+![The Backdrop Library.](images/backdrop.png)
