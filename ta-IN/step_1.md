@@ -1,7 +1,7 @@
-+ கீழ் வலதுபுறத்தில் உள்ள **Choose a Backdrop** என்பதைக் கிளிக் செய்க.
+Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
 
-![திரைப்பிடிப்பு](images/stage-choose.png)
+![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
 
-+ நீங்கள் ஒரு பின்னணியைத் தேடலாம் அல்லது வகை அல்லது கருப்பொருளின்(தீம்-theme) அடிப்படையில் ஒரு பின்னணியை உலாவிக் கண்டறியலாம். ஒரு பின்னணியைத் தேர்ந்தெடுக்க அதன் மீது கிளிக் செய்யவும்.
+You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
 
-![திரைப்பிடிப்பு](images/backdrop.png)
+![The Backdrop Library.](images/backdrop.png)
