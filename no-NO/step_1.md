@@ -1,7 +1,7 @@
-+ Klikk på **Velg et bakgrunnsbilde** nederst til høyre.
+Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
 
-![skjermbilde](images/stage-choose.png)
+![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
 
-+ Du kan søke etter et bakgrunnsbilde eller bla etter et etter kategori eller tema. Klikk på et bakgrunnsbilde for å velge det.
+You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
 
-![skjermbilde](images/backdrop.png)
+![The Backdrop Library.](images/backdrop.png)
