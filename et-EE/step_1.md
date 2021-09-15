@@ -1,7 +1,7 @@
-+ Klõpsa all paremal **Vali taust**.
+Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
 
-![kuvatõmmis](images/stage-choose.png)
+![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
 
-+ Saad otsida tausta või sirvida selle leidmiseks kategooria või teema järgi. Selle valimiseks klõpsa taustal.
+You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
 
-![kuvatõmmis](images/backdrop.png)
+![The Backdrop Library.](images/backdrop.png)
