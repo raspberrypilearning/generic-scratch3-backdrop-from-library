@@ -1,7 +1,7 @@
-Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
+Clique em **Selecionar Cenário** no canto inferior direito da tela para abrir a Biblioteca de Cenários:
 
-![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
+![O ícone 'Selecionar Cenário' destacado.](images/stage-choose.png)
 
-You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
+Você pode pesquisar por um cenário usando a busca ou navegando por uma das categorias. Clique no cenário para adicioná-lo ao seu projeto.
 
-![The Backdrop Library.](images/backdrop.png)
+![A Biblioteca de Cenários.](images/backdrop.png)
