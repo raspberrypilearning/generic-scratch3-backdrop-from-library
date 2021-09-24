@@ -1,7 +1,7 @@
-Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
+Кликни **Выбрать фон** в правом нижнем углу:
 
-![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
+![Иконка «Выбрать фон» выделена.](images/stage-choose.png)
 
-You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
+Ты можешь искать фон, или подобрать фон по категории или теме. Нажмите на фон, чтобы добавить его в проект.
 
-![The Backdrop Library.](images/backdrop.png)
+![Библиотека фоновых изображений.](images/backdrop.png)
