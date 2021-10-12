@@ -1,7 +1,7 @@
-Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
+Clique sur **Choisir un arrière-plan** dans le coin inférieur droit de la fenêtre pour ouvrir la galerie des arrière-plans :
 
-![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
+![capture d'écran](images/stage-choose.png)
 
-You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
+Tu peux rechercher un arrière-plan, ou les parcourir par catégorie. Clique sur un arrière-plan pour l'ajouter à ton projet.
 
-![The Backdrop Library.](images/backdrop.png)
+![La bibliothèque d'arrière-plan.](images/backdrop.png)
