@@ -1,7 +1,7 @@
-Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
+انقر فوق **اختيار الخلفية** في الركن الأيمن السفلي من الشاشة لفتح مكتبة الخلفيات:
 
 ![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
 
-You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
+يمكنك البحث عن الخلفية أو عرضها عن طريق التصنيف حسب الفئة أو الموضوع. انقر فوق الخلفية لاختيارها.
 
 ![The Backdrop Library.](images/backdrop.png)
