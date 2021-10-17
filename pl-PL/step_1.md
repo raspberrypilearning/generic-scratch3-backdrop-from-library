@@ -1,7 +1,7 @@
-Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
+Kliknij **Wybierz tło** w prawym dolnym rogu ekranu aby otworzyć bibliotekę z tłami:
 
-![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
+![Podświetlona ikona „Wybierz tło”.](images/stage-choose.png)
 
-You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
+Możesz wyszukać interesujące Ciebie tło lub przeglądać tła według kategorii. Kliknij na tło aby je dodać do Twojego projektu.
 
-![The Backdrop Library.](images/backdrop.png)
+![Biblioteka z tłami.](images/backdrop.png)
