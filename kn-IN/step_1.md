@@ -1,7 +1,7 @@
-Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
+ಬ್ಯಾಕ್‌ಡ್ರಾಪ್ ಲೈಬ್ರರಿಯನ್ನು ತೆರೆಯಲು ಪರದೆಯ ಕೆಳಗಿನ ಬಲ ಮೂಲೆಯಲ್ಲಿ **Choose a Backdrop** ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ:
 
 ![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
 
-You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
+ನೀವು ಬ್ಯಾಕ್‌ಡ್ರಾಪ್‌ಗಾಗಿ ಹುಡುಕಬಹುದು, ಅಥವಾ ಒಂದೊಂದು ವರ್ಗವನ್ನು ಬ್ರೌಸ್ ಮಾಡಬಹುದು. ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್ ಗೆ ಸೇರಿಸಲು ಬ್ಯಾಕ್‌ಡ್ರಾಪ್ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ.
 
 ![The Backdrop Library.](images/backdrop.png)
