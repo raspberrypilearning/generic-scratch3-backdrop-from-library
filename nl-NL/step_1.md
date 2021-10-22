@@ -1,7 +1,7 @@
-Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
+Klik op **Kies een achtergrond** in de rechteronderhoek van het scherm om de Achtergrond-bibliotheek te openen:
 
-![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
+![Het 'Kies een achtergrond'-pictogram is gemarkeerd.](images/stage-choose.png)
 
-You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
+Je kunt naar een achtergrond zoeken of naar één op thema zoeken. Klik op een achtergrond om deze te selecteren.
 
-![The Backdrop Library.](images/backdrop.png)
+![De Achtergrond-bibliotheek.](images/backdrop.png)
