@@ -1,7 +1,7 @@
-+ Klik rechtsonder op **Kies een achtergrond**.
+Klik op **Kies een achtergrond** in de rechteronderhoek van het scherm om de Achtergrond-bibliotheek te openen:
 
-![screenshot](images/stage-choose.png)
+![Het 'Kies een achtergrond'-pictogram is gemarkeerd.](images/stage-choose.png)
 
-+ Je kunt naar een achtergrond zoeken of naar één op categorie of thema zoeken. Klik op een achtergrond om deze te selecteren.
+Je kunt naar een achtergrond zoeken of naar één op thema zoeken. Klik op een achtergrond om deze te selecteren.
 
-![screenshot](images/backdrop.png)
+![De Achtergrond-bibliotheek.](images/backdrop.png)
