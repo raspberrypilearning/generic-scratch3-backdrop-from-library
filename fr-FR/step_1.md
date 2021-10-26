@@ -1,7 +1,7 @@
-+ Cliquez sur **Choisir un arrière-plan** en bas à droite.
+Clique sur **Choisir un arrière-plan** dans le coin inférieur droit de la fenêtre pour ouvrir la galerie des arrière-plans :
 
 ![capture d'écran](images/stage-choose.png)
 
-+ Vous pouvez rechercher un arrière-plan ou parcourir par catégorie ou par thème. Cliquez sur un arrière-plan pour le sélectionner.
+Tu peux rechercher un arrière-plan, ou les parcourir par catégorie. Clique sur un arrière-plan pour l'ajouter à ton projet.
 
-![capture d'écran](images/backdrop.png)
+![La bibliothèque d'arrière-plan.](images/backdrop.png)
