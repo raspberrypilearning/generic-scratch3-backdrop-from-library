@@ -1,7 +1,8 @@
-+ Haz clic en **Elige un fondo** en la parte inferior derecha.
+Haz clic en **Elige un fondo** en la parte inferior derecha para abrir la Biblioteca de Fondos:
 
-![captura de pantalla](images/stage-choose.png)
+![El ícono "Elige un fondo" resaltado.](images/stage-choose.png)
 
-+ Puedes buscar un fondo o explorar cada categoría o tema. Haz clic en el fondo para seleccionarlo.
+Puedes buscar un fondo o explorar por categoría o tema para encontrarlo. Haz clic en un fondo para agregarlo a tu proyecto.
 
-![captura de pantalla](images/backdrop.png)
+![La Biblioteca de Fondos.](images/backdrop.png)
+

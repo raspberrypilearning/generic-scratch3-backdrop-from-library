@@ -1,7 +1,8 @@
-+ Kliknij **Wybierz tło** w prawym dolnym rogu.
+Kliknij **Wybierz tło** w prawym dolnym rogu ekranu aby otworzyć bibliotekę z tłami:
 
-![zrzut ekranu](images/stage-choose.png)
+![Podświetlona ikona „Wybierz tło”.](images/stage-choose.png)
 
-+ Możesz wyszukać interesujące Cię tło lub przeglądać tła według kategorii lub motywu. Kliknij na tło aby je wybrać.
+Możesz wyszukać interesujące Ciebie tło lub przeglądać tła według kategorii. Kliknij na tło aby je dodać do Twojego projektu.
 
-![zrzut ekranu](images/backdrop.png)
+![Biblioteka z tłami.](images/backdrop.png)
+
