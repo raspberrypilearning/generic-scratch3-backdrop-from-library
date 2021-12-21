@@ -1,7 +1,7 @@
-Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
+Clicia ar **Dewiswch Gefnlen** yng nghornel dde isaf y sgrin i agor Llyfrgell y Cefnlenni:
 
-![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
+![sgrinlun](images/stage-choose.png)
 
-You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
+Mae modd chwilio am gefnlen, neu bori am un yn ôl categori. Clicia ar gefnlen i'w ychwanegu i dy brosiect.
 
-![The Backdrop Library.](images/backdrop.png)
+![Llyfrgell y Cefnlenni.](images/backdrop.png)
