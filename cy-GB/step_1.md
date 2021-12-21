@@ -1,7 +1,7 @@
-+ Clicia **Dewiswch gefnlen** ar waelod dde y dudalen.
+Clicia ar **Dewiswch Gefnlen** yng nghornel dde isaf y sgrin i agor Llyfrgell y Cefnlenni:
 
-![sgrinlun](images/stage-choose.png)
+![Yr eicon 'Dewiswch Gefnlen' wedi'i hamlygu.](images/stage-choose.png)
 
-+ Mae modd chwilio am gefnlen neu bori am un yn ôl categori neu thema. Clicia ar y gefnlen i'w ddewis.
+Mae modd chwilio am gefnlen, neu bori am un yn ôl categori. Clicia ar gefnlen i'w ychwanegu i dy brosiect.
 
-![sgrinlun](images/backdrop.png)
+![Llyfrgell y Cefnlenni.](images/backdrop.png)
