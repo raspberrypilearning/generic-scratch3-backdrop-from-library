@@ -1,7 +1,7 @@
-Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
+Sağ alttaki **Bir Dekor Seç** 'e tıklayın.
 
-![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
+![ekran görüntüsü](images/stage-choose.png)
 
-You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
+Dekor'u arayabilir, kategori ya da temaya göre göz atabilirsiniz. Click on a backdrop to add it to your project.
 
 ![The Backdrop Library.](images/backdrop.png)
