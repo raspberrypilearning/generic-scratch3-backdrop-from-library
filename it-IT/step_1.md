@@ -1,7 +1,7 @@
-Fai clic su **Scegli uno sfondo** in basso a destra.
+Cliccare su **Scegli uno sfondo** in basso a destra per aprire la libreria sfondi:
 
-![screenshot](images/stage-choose.png)
+![L'icona "Scegli uno sfondo" evidenziata.](images/stage-choose.png)
 
-Puoi cercare uno sfondo o selezionare una categoria o tema per restringere la ricerca. Fai clic su uno sfondo per selezionarlo.
+Puoi cercare uno sfondo o selezionarne uno tramite una categoria. Clicca su uno sfondo per selezionarlo per aggiungerlo al tuo progetto.
 
-![The Backdrop Library.](images/backdrop.png)
+![La Libreria Sfondi.](images/backdrop.png)
