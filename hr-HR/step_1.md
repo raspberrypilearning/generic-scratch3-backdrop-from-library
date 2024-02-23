@@ -1,7 +1,7 @@
-+ Klikni na **Odaberi pozadinu** u donjem desnom kutu.
+Klikni na **Odaberi pozadinu** u donjem desnom kutu zaslona da otvoriš knjižnicu pozadina:
 
-![snimka zaslona](images/stage-choose.png)
+![Istaknuta ikona „Odaberi pozadinu”.](images/stage-choose.png)
 
-+ Možeš pronaći pozadinu tako da upišeš njen naziv ili pretraživati po kategoriji ili temi. Odaberi pozadinu tako da klikneš na nju.
+Možeš potražiti određenu pozadinu ili pretraživati pozadine po kategorijama. Klikni na pozadinu da ju dodaš u svoj projekt.
 
-![snimka zaslona](images/backdrop.png)
+![Knjižnica pozadina.](images/backdrop.png)
