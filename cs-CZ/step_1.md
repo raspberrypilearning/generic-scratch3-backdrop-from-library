@@ -1,7 +1,7 @@
-Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
+Kliknutím na **Vybrat pozadí** v pravém dolním rohu obrazovky otevřete výběr všech pozadí:
 
-![snímek obrazovky](images/stage-choose.png)
+![Zvýrazněná ikona "Vybrat pozadí".](images/stage-choose.png)
 
-You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
+Můžeš vyhledat pozadí, nebo si jedno vybrat podle kategorie. Do projektu přidáš pozadí tím, že na něj klikneš.
 
-![The Backdrop Library.](images/backdrop.png)
+![Výběr pozadí.](images/backdrop.png)
