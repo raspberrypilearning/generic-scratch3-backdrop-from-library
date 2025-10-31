@@ -1,7 +1,7 @@
-Click on **Choose a Backdrop** in the bottom right-hand corner of the screen to open the Backdrop Library:
+Cofa ku **Khetha umfanekiso wangemva** kwikona esezantsi ekunene kwesikrini ukuze uvule ithala lemifanekiso yangasemva:
 
-![The 'Choose a Backdrop' icon highlighted.](images/stage-choose.png)
+![Uphawu 'Khetha umfanekiso wangemva' uqaqambusiwe.](images/stage-choose.png)
 
-You can search for a backdrop, or browse for one by category. Click on a backdrop to add it to your project.
+Unokukhangela umfanekiso wangasemva, okanye uwukhangele kuluhlu lodidi. Cofa kumfanekiso wangasemva ofuna ukuwufaka kwiprojekthi yakho.
 
-![The Backdrop Library.](images/backdrop.png)
+![Ithala lemifanekiso yangasemva.](images/backdrop.png)
